@@ -23,7 +23,3 @@ This project involves creating a comprehensive Credit Card Transaction Report us
 - **Data Analysis:** Utilized DAX (Data Analysis Expressions) and Power Query for data transformation and calculations.
 
 ## Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/credit-card-transaction-report.git
